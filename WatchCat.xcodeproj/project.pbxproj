@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1842FCFC26EB662500432796 /* 22cat_clean.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1842FCFB26EB662500432796 /* 22cat_clean.gif */; };
 		185051C326E7FEDB00F819CD /* 22cat.gif in Resources */ = {isa = PBXBuildFile; fileRef = 185051C226E7FEDB00F819CD /* 22cat.gif */; };
+		18A0C2C327483E2B00998796 /* paw.png in Resources */ = {isa = PBXBuildFile; fileRef = 18A0C2C227483E2B00998796 /* paw.png */; };
 		1B238107CBA4AA27818E8A86 /* Pods_WatchCat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 827CEA067E936777B57152E8 /* Pods_WatchCat.framework */; };
 		2D02EF2E22FD101000C13189 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D02EF2D22FD101000C13189 /* AppDelegate.swift */; };
 		2D02EF3022FD101000C13189 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D02EF2F22FD101000C13189 /* ViewController.swift */; };
@@ -41,6 +42,7 @@
 		05BC54B204542116E6AD355C /* Pods-WatchCat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WatchCat.release.xcconfig"; path = "Target Support Files/Pods-WatchCat/Pods-WatchCat.release.xcconfig"; sourceTree = "<group>"; };
 		1842FCFB26EB662500432796 /* 22cat_clean.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = 22cat_clean.gif; path = images/22cat_clean.gif; sourceTree = SOURCE_ROOT; };
 		185051C226E7FEDB00F819CD /* 22cat.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = 22cat.gif; path = images/22cat.gif; sourceTree = SOURCE_ROOT; };
+		18A0C2C227483E2B00998796 /* paw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = paw.png; path = images/paw.png; sourceTree = SOURCE_ROOT; };
 		2D02EF2A22FD101000C13189 /* WatchCat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchCat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02EF2D22FD101000C13189 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2D02EF2F22FD101000C13189 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 		2D02EF6B22FFE46E00C13189 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				18A0C2C227483E2B00998796 /* paw.png */,
 				1842FCFB26EB662500432796 /* 22cat_clean.gif */,
 				185051C226E7FEDB00F819CD /* 22cat.gif */,
 			);
@@ -280,6 +283,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18A0C2C327483E2B00998796 /* paw.png in Resources */,
 				1842FCFC26EB662500432796 /* 22cat_clean.gif in Resources */,
 				185051C326E7FEDB00F819CD /* 22cat.gif in Resources */,
 				2D02EF3822FD101100C13189 /* LaunchScreen.storyboard in Resources */,
