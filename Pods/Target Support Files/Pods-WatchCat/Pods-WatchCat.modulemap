@@ -1,0 +1,6 @@
+framework module Pods_WatchCat {
+  umbrella header "Pods-WatchCat-umbrella.h"
+
+  export *
+  module * { export * }
+}
